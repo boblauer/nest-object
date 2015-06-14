@@ -1,0 +1,24 @@
+{
+  "name": "nest-object",
+  "version": "1.0.0",
+  "description": "Convert {'an.object.like': 'this'} into { an: { object: { like: 'this' } } }",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/boblauer/nest-object.git"
+  },
+  "keywords": [
+    "object",
+    "keys",
+    "nest"
+  ],
+  "author": "Bob Lauer <rlauer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boblauer/nest-object/issues"
+  },
+  "homepage": "https://github.com/boblauer/nest-object"
+}

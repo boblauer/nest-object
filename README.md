@@ -6,7 +6,7 @@ Convert `{'an.object.like': 'this'}` into `{ an: { object: { like: 'this' } } }`
 npm install nest-object
 ```
 
-#usage
+# usage
 ```javascript
 var nest = require('nest-object');
 

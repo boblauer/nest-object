@@ -1,6 +1,6 @@
 {
   "name": "nest-object",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert {'an.object.like': 'this'} into { an: { object: { like: 'this' } } }",
   "main": "index.js",
   "scripts": {

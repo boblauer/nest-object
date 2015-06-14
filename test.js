@@ -38,5 +38,21 @@ assert.deepEqual(nested, {
   }
 });
 
+nested = nestObject({
+  should: {
+    be: {
+      untouched: true
+    }
+  }
+});
+
+assert.deepEqual(nested, {
+  should: {
+    be: {
+      untouched: true
+    }
+  }
+});
+
 console.log('Success!');
 process.exit(0);
